@@ -6,7 +6,7 @@ public class Producto {
 
 	private TipoProducto (enumeración con los valores LACTEO, CÁRNICO, FRUTA o ENLATADO) tipo;
 
-	private Fecha fechaExpiracion;
+	private Date fechaExpiracion;
 
 	private char fabricante;
 

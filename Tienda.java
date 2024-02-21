@@ -6,7 +6,7 @@ public class Tienda {
 
 	private char telefono;
 
-	private Producto producto;
+	private Producto[] producto;
 
 	public void agregarProducto(int Producto producto) {
 
